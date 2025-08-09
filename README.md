@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zheko Gyulev</h1>
-<h3 align="center">Software Engineering Student</h3>
+<h3 align="center">
+I’m passionate about programming, especially backend development with Java, and eager to build scalable, efficient applications.  
+Currently studying Software Engineering at Software University and continuously improving my skills.
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jekogyulev" alt="jekogyulev" /></a> </p>
 
