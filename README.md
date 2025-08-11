@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **zhekogyulev@gmail.com**
 
-- 📄 Know about my experiences [*in process*](*in process*)
+- 📄 Know about my experiences (*in process*)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
