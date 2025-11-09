@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [https://github.com/JekoGyulev](https://github.com/JekoGyulev)
+- 👨‍💻 All of my personal and practice projects are available at [https://github.com/JekoGyulev](https://github.com/JekoGyulev)](https://github.com/JekoGyulev?tab=repositories)
 
 - 📫 How to reach me **zhekogyulev@gmail.com**
 
