@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zheko Gyulev</h1>
+<h2 align="center">Software Engineering Student</h2>
 <h3 align="center">I’m passionate about programming, especially backend development with Java, and eager to build scalable, efficient applications.  </h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jekogyulev" alt="jekogyulev" /></a> </p>
+
+- 🎓 Education: SoftUni (Software University) – Software Engineering
 
 - 🔭 I’m currently working on  [StayConnected] [https://github.com/JekoGyulev/StayConnected](https://github.com/JekoGyulev/stay-connected)
 
