@@ -29,6 +29,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JekoGyulev&theme=ayu-mirage&hide_border=false)<br/>
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JekoGyulev&limit=5&theme=ayu-mirage&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
