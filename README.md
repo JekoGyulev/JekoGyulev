@@ -17,6 +17,8 @@
 <p align="left">
 <a href="https://www.leetcode.com/jeko777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jeko777" height="30" width="40" /></a>
 <a href="https://discord.gg/ZhekoGyulev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhekoGyulev7" height="30" width="40" /></a>
+<a href="https://instagram.com/77_.gyuleww._77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="77_.gyuleww._77" height="30" width="40" /></a>
+<a href="https://medium.com/@zhekogyulev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zhekogyulev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jekogyulev&show_icons=true&locale=en&layout=compact" alt="jekogyulev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jekogyulev&show_icons=true&locale=en" alt="jekogyulev" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jekogyulev&" alt="jekogyulev" /></p>
