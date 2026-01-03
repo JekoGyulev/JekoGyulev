@@ -29,7 +29,12 @@
 </p>
 
 <h3 align="left">Build Tools</h3>
-![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg"
+       alt="maven"
+       width="40"
+       height="40"/>
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
