@@ -40,8 +40,8 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
       alt="junit5"
-      width="60"
-      height="60"</>
+      width="70"
+      height="70"</>
 </p>
 
 # 📊 GitHub Stats:
