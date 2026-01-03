@@ -36,6 +36,14 @@
        height="40"/>
 </p>
 
+<h3 align="left">Testing Frameworks</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
+      alt="junit5"
+      width="40"
+      height="40"</>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 ![](https://github-readme-stats.vercel.app/api?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
