@@ -51,6 +51,11 @@
       height="70"</>
 </p>
 
+<h3 align="left">CI/CD Tools</h3>
+<p>
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
 ![](https://github-readme-stats.vercel.app/api?username=JekoGyulev&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)<br/>
