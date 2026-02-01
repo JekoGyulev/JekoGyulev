@@ -51,6 +51,10 @@
       height="70"</>
 </p>
 
+<p align="left"> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+</p>
+
 <h3 align="left">CI/CD Tools</h3>
 <p>
 
