@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=500&color=D0D4F7&background=CB7740&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jeko+Gyulev!;Software+Engineer+with+Java" alt="Typing SVG" /></a>
 <h1 align="center">Hi 👋, I'm Zheko Gyulev</h1>
 <h2 align="center">Software Engineering Student</h2>
 <h3 align="center">I’m passionate about programming, especially backend development with Java, and eager to build scalable, efficient applications.  </h3>
