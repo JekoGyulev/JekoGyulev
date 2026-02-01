@@ -45,16 +45,17 @@
 
 <h3 align="left">Testing Frameworks</h3>
 <p>
+
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
+  </a> 
+  
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
       alt="junit5"
       width="70"
       height="70"</>
   </a>
-
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="45" height="45"/> 
-  </a> 
 </p>
 
 <h3 align="left">CI/CD Tools</h3>
