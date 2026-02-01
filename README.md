@@ -53,8 +53,8 @@
   <a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg"
       alt="junit5"
-      width="70"
-      height="70"</>
+      width="45"
+      height="45"</>
   </a>
 </p>
 
