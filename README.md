@@ -66,7 +66,7 @@
 <p>
 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/ba029133-3fdc-436f-b8ca-10c486610f86" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ba029133-3fdc-436f-b8ca-10c486610f86" />
 
 
 </p>
