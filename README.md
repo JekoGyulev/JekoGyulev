@@ -64,11 +64,14 @@
 
 <h3 align="left">CI/CD Tools</h3>
 <p>
-
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/ba029133-3fdc-436f-b8ca-10c486610f86" />
-
-
+  <a>
+    <img width="40" height="40" alt="github-actions" src="https://github.com/user-attachments/assets/ba029133-3fdc-436f-b8ca-10c486610f86" />
+  </a>
+  
+  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+  </a> 
+  
 </p>
 
 # 📊 GitHub Stats:
