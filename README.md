@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on  [StayConnected] [https://github.com/JekoGyulev/StayConnected](https://github.com/JekoGyulev/stay-connected)
 
-- 🌱 I’m currently learning **CI/CD with GitHub Actions and Jenkins**
+- 🌱 I’m currently learning **Containers and Cloud**
 
 - 👨‍💻 All of my personal and practice projects are available at (https://github.com/JekoGyulev?tab=repositories)
 
