@@ -74,6 +74,11 @@
   
 </p>
 
+<h3 align="left">IaC Tools</h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"/>
+</p>
+
 <h3 align="left">Other</h3>
 <p>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
