@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?  type=waving&height=260&section=header&reversal=false&text=Jeko%20Gyulev&fontSize=71&fontAlign=50&fontAlignY=39&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Software%20Engineer%20with%20Java&descSize=27&descAlign=50&descAlignY=62&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&reversal=false&text=Jeko%20Gyulev&fontSize=71&fontAlign=50&fontAlignY=39&rotate=0&stroke=-&strokeWidth=0&animation=fadeIn&desc=Software%20Engineer%20with%20Java&descSize=27&descAlign=50&descAlignY=62&textBg=false&color=gradient"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Zheko Gyulev</h1>
