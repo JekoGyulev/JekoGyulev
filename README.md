@@ -24,6 +24,7 @@
 <a href="https://discord.gg/ZhekoGyulev7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZhekoGyulev7" height="30" width="40" /></a>
 <a href="https://instagram.com/77_.gyuleww._77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="77_.gyuleww._77" height="30" width="40" /></a>
 <a href="https://medium.com/@zhekogyulev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@zhekogyulev" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/zhekogyulev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zhekogyulev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
